@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://murathaktanir.github.io/""
 languageCode = "en"
 title = "Initio - Free, multipurpose html5 template by GetTemplate"
 theme = "hugo-initio"
@@ -104,3 +104,5 @@ theme = "hugo-initio"
     footer = false
     sharethis = true
     network = "email"
+‘publishdir = “public”’
+‘publishdir = “public”’
